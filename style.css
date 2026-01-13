@@ -1,0 +1,38 @@
+img.slide{
+    height: 800px;
+    width: 100%;
+}
+.order {
+    background-color: rgb(9, 8, 5);
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    color: white;
+    border-top: 2px solid grey;
+}
+
+.product-card {
+    width: 100%;
+    max-width: 18rem;
+    background-color: #eeeeee;
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: contain;
+    padding: 15px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.row2{
+    margin-top: 50px;
+}
+.location{
+    margin-left: 350px;
+}
